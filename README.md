@@ -45,7 +45,7 @@ Agradecimentos a todos que apoiam causas animais na vida real e a todos os que e
 
 ## 👩‍💻 Desenvolvido por  
 
-Samira Moreira – estudante de Ciências da Computação e entusiasta de desenvolvimento web.  
+Samira Rabelo Moreira – estudante de Ciências da Computação e entusiasta de desenvolvimento web.  
 
 ---
 
